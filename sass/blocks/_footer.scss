@@ -1,0 +1,20 @@
+.nav-link.read-more{
+    color: $accent-color;
+  }
+  .footer{
+    
+&__soc{
+    font-size: 16px;
+   
+}
+    &__information{
+font-size: 16px;
+        color:$text-color2;
+    }
+  }
+  .under{
+    text-decoration: underline; 
+    a{
+        color: $accent-color;
+    }
+}

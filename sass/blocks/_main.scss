@@ -1,0 +1,34 @@
+
+.main {
+    @include adaptiv-value("margin-top", 120,50, 0);  
+}
+
+.couriers {
+h2{
+    font-weight: 600;
+@include adaptiv-value("font-size", 40,20, 0);
+margin-bottom: 48px;
+}
+		// .couriers__list
+
+		&__list {
+		}
+
+		// .couriers__list-img
+
+		&__list-img {
+            box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+			@include adaptiv-value("width", 220,150, 0);  
+background: #fff;
+border-radius: 4px;
+height: 104px;
+display: flex;
+align-items: center;
+justify-content: center;
+		}
+
+		// .couriers__image
+
+		&__image {
+		}
+}

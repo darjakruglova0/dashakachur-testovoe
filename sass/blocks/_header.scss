@@ -1,0 +1,21 @@
+.nav-link {
+ font-size: 16px;
+  color: $text-color;
+ }
+ .header{
+  &__lang{
+    border: none;
+    font-size: 13px;
+  }
+&__tel{
+font-size: 16px;
+a{
+
+  font-weight: 700;
+}
+  &-text{
+    font-size:13px;
+    
+  }
+}
+ }
