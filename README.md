@@ -1,5 +1,13 @@
 ﻿# dashakachur-testovoe
-ссылка на сайт: http://a1052107.xsph.ru/
+Сайт на хостинге:
+http://a1052107.xsph.ru/
+IP-адрес: 141.8.192.217
+Логин: a1052107
+Пароль: ugarseukuh
+База данных
+https://pma.sprinthost.ru/index.php?server=1
+a1052107_root
+Chd9M6PG
 
 Вот пошаговая инструкция для запуска сайта на OpenServer и импорта базы данных:
 
